@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589160814468",
+    "project_id": "boxingapp1-78e04",
+    "storage_bucket": "boxingapp1-78e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589160814468:android:519c8fabbc7efd4ae26fd1",
+        "android_client_info": {
+          "package_name": "com.knockoutgym.boxingapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDustbDoKETgy2dT1TJRKDxdaD6jtsBDwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
